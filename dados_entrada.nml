@@ -1,0 +1,19 @@
+&input
+n_carro = 1000,
+n_moto = 500,
+n_onibus = 200,
+n_caminhao = 100,
+aumento_veiculos = 277.78,
+fator_emissao_carro = 0.2, 0.1, 0.05,
+fator_emissao_moto = 0.1, 0.05, 0.02,
+fator_emissao_onibus = 0.5, 0.2, 0.1,
+fator_emissao_caminhao = 0.6, 0.3, 0.15,
+ajuste_emissao_carro = 1.05,
+ajuste_emissao_moto = 0.95,
+ajuste_emissao_onibus = 1.1,
+ajuste_emissao_caminhao = 1.2,
+uso_carro = 35,
+uso_moto = 40,
+uso_onibus = 120,
+uso_caminhao = 150
+/
