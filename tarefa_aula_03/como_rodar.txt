@@ -1,3 +1,5 @@
+Altere os parâmetros em dados_entrada.nml de acordo com o desejado tendo cuidado com a sintaxe.
+
 COMANDOS:
 
 gfortran veiculos_emissao.f90 -o tarefa
