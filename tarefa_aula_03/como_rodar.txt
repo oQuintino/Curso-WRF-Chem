@@ -1,0 +1,5 @@
+COMANDOS:
+
+gfortran veiculos_emissao.f90 -o tarefa
+
+./tarefa
