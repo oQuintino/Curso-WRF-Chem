@@ -1,0 +1,17 @@
+&entrada
+  ! Distância média percorrida por cada tipo de veículo (em km)
+  distancia_media = 21.31, 21.31, 21.31, 128.35, 164.38, 164.38, 41.09, 70.6
+  ! Fração de veículos para cada tipo (ex: carros, caminhões, motos)
+  frac_veiculos = 0.2, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1
+  ! Emissões de CO₂ (kg/km) para cada tipo de veículo
+  emissoes_CO2 = 0.2, 0.5, 0.1, 600.49, 0, 0, 0, 0
+  ! Emissões de CO (kg/km) para cada tipo de veículo
+  emissoes_CO = 10.86, 24, 10.26, 9.9, 1.84, 1.36, 6.5, 18.3
+  ! Emissões de CH₄ (kg/km) para cada tipo de veículo
+  emissoes_CH4 = 0.001, 0.002, 0.0005, 0.6, 0, 0, 0, 0
+  ! Emissões de CO, CO₂ e CH₄ (kg/km) para trens
+  fatores_de_emissao_trem = 35.49, 2602.87, 0.177661659
+  ! Fator para alterar a porcentagem de motocicletas daqui a 20 anos
+  acrescimo_motocicletas = 10
+/
+
